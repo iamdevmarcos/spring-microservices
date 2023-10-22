@@ -1,7 +1,7 @@
 # Spring Microservices
 
 Spring boot app that creates a user and sends an email.
-Uses PostgreSQL as the database and rabbitmq as the broker ☕️
+Uses PostgreSQL as the database and RabbitMQ as the broker ☕️
 
 ## Technology stack
 
